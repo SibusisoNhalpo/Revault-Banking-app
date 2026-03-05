@@ -1,0 +1,15 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Sibusiso\Desktop\banking_V1\Revaultbank.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Revaultbank.exe
+Working dir:	C:\Users\Sibusiso\Desktop\banking_V1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	C:\Users\Sibusiso\Desktop\banking_V1\JRE\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
